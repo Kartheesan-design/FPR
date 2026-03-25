@@ -1,0 +1,23 @@
+
+Developer: Vinita Nelson
+e-mail: vinita@cadence.com
+Cadence Design Systems, Inc.
+
+I.  This course works with DDI/Innovus 
+    25.1 RTM
+
+II.  Disk Space requirements: 2G including data and output
+     files.
+
+III. Software products required for the course:
+      Digital Design and Implementation which includes Innovus Implementation System
+
+IV. Testing the course installation:
+    To test the software and course installation execute the test
+    script file. cd to the FPR directory and execute the .testscript
+
+V. OS Requirement
+   To run DDI 25.1, and from this release onwards RH8.4 is the minimum requirement and won't run on RH7.X.
+
+
+
